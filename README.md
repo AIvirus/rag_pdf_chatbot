@@ -1,5 +1,10 @@
 
 # 📚 RAG PDF Chatbot (LangChain + Gemini + Hugging Face)
+![image](https://github.com/user-attachments/assets/b90ac18d-e525-40ed-afa8-9ffa5e906cde)
+![image](https://github.com/user-attachments/assets/7387f2ed-455a-4e11-994a-59caed124f42)
+
+
+
 
 A simple, powerful chatbot app built using LangChain, Streamlit, Google Gemini Embeddings, and HuggingFace Hub models like `flan-t5-large`. This app lets you **upload multiple PDF files**, process them into chunks, generate embeddings, and ask questions in natural language—getting **context-aware answers** from your documents in real-time.
 
