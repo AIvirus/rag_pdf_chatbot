@@ -1,0 +1,47 @@
+# Core
+langchain==0.0.320
+faiss-cpu==1.7.4
+sentence-transformers==2.2.2
+
+# Google Gemini
+google-generativeai>=0.3.1,<0.4.0
+langchain_google_genai==0.0.3
+
+# PDF
+PyPDF2==3.0.1
+
+# UI
+streamlit==1.25.0
+
+# Env
+python-dotenv==1.0.0
+
+
+
+
+'''for creating venv with any version of python'''
+
+# $env:Path += ";C:\Users\prana\Anaconda3\Scripts;C:\Users\prana\Anaconda3"
+# conda --version
+
+# conda create -n rag310 python=3.10
+# conda activate rag310
+
+# # langchain==0.0.184
+# # PyPDF2==3.0.1
+# python-dotenv==1.0.0
+# # streamlit==1.18.1
+# # faiss-cpu==1.7.4
+# altair==4
+# # tiktoken==0.4.0
+# huggingface-hub==0.14.1
+# InstructorEmbedding==1.0.1
+# sentence-transformers==2.2.2
+
+# streamlit==1.25.0
+# google-generativeai==0.1.0
+# langchain==0.0.320
+# PyPDF2==3.0.1
+# chromadb==0.4.5
+# faiss-cpu==1.7.4
+# langchain_google_genai==0.0.3
